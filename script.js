@@ -130,8 +130,17 @@ changeButton.onclick = function () {
 function trashConsole() {
   console.log(Math.random());
 }
-*/
 
+
+
+
+  //changeBox.append(coin); // Добавляем в конец(внутри снизу)
+  //changeBox.prepend(coin); // Добавляем в начало(внутри сверху)
+  //changeBox.before(coin); // перед элементом(снаружи сверху)
+  //changeBox.after(coin); // после элемента(снаружи снизу)
+  //changeBox.replaceWith(coin); // заменяет одно другим(один раз)
+
+*/
 
 
 
